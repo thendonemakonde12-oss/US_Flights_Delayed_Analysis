@@ -32,9 +32,4 @@ To determine which days of the week, airline, and origin airports experience a h
 * 'US_FLIGHT_DELAY_ANALYSIS_DASHBOARD.pbix': The interactive Power BI dashboard file.
 * Power BI dashboard visual represention:
 
-
 https://github.com/user-attachments/assets/d0de511f-943f-4299-8371-ac3c32c82d38
-
-<img width="1077" height="547" alt="Screenshot 2026-09-21 110656" src="https://github.com/user-attachments/assets/afa02e7d-330a-4aaf-bb26-4949bb7d7117" />
-
-
